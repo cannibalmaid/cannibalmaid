@@ -18,11 +18,11 @@
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    1 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
 Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       3 commits      █████████████████████████   100.0%
+Sunday       2 commits      ████████████████░░░░░░░░░   66.67%
 
 ```
 
@@ -41,9 +41,9 @@ No Activity Tracked This Week
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   2 repos             ████████████░░░░░░░░░░░░░   50.0% 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Rust                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+Kotlin                   2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
+Rust                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
