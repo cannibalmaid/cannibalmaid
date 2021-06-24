@@ -31,10 +31,10 @@ Sunday       7 commits      ████████░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -50,5 +50,5 @@ CSS                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 23/06/2021
+ Last Updated on 24/06/2021
 <!--END_SECTION:waka-->
