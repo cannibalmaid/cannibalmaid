@@ -31,10 +31,10 @@ Sunday       7 commits      ████████░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Lua                      1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mpd                      1 hr 24 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -50,5 +50,5 @@ CSS                      1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 27/09/2021
+ Last Updated on 28/09/2021
 <!--END_SECTION:waka-->
