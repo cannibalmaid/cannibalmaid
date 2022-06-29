@@ -33,10 +33,10 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Games                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -53,5 +53,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2022 18:49:31 UTC
+ Last Updated on 29/06/2022 18:47:14 UTC
 <!--END_SECTION:waka-->
