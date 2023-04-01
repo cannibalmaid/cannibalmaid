@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2059%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -56,5 +56,5 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2023 18:31:18 UTC
+ Last Updated on 01/04/2023 18:31:04 UTC
 <!--END_SECTION:waka-->
