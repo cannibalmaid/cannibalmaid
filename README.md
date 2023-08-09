@@ -31,10 +31,12 @@ Sunday                   15 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Nix                      4 hrs 51 mins       █████████████████████████   99.52 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+home-manager             2 hrs 45 mins       ██████████████░░░░░░░░░░░   56.71 % 
+linux-discord-rich-presen2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.29 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -50,5 +52,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2023 18:31:25 UTC
+ Last Updated on 09/08/2023 18:33:55 UTC
 <!--END_SECTION:waka-->
