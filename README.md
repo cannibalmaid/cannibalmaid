@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2049%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -31,10 +31,10 @@ Sunday                   19 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Nix                      41 mins             █████████████████████████   100.00 % 
+Nix                      45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-home-manager             41 mins             █████████████████████████   100.00 % 
+home-manager             45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -50,5 +50,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2023 18:31:06 UTC
+ Last Updated on 22/10/2023 18:30:56 UTC
 <!--END_SECTION:waka-->
