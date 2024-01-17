@@ -31,10 +31,10 @@ Sunday                   20 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Nix                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-home-manager             8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -50,5 +50,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2024 18:32:51 UTC
+ Last Updated on 17/01/2024 18:33:16 UTC
 <!--END_SECTION:waka-->
